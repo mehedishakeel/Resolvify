@@ -33,9 +33,9 @@ Install the following packages based on your Linux distribution:
 
 ## Usage
 ```bash
-- git clone https://github.com/mehedishakeel/Resolvify.git
-- cd Resolvify
-- python Resolvify.py
+git clone https://github.com/mehedishakeel/Resolvify.git
+cd Resolvify
+python Resolvify.py
 ```
 ## Contact
 [<img align="left" alt="mehedishakeel.online" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mehedishakeel.com)
