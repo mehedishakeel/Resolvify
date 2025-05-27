@@ -1,11 +1,9 @@
 # 🎧 Resolvify
 
 **Resolvify** is a simple, modern, Linux-only GUI application built with PyQt5 that lets you convert OBS video/audio recordings using `ffmpeg`. Drag and drop your files, choose a conversion type, and click convert. Perfect for video editors who need quick conversions for DaVinci Resolve, YouTube, or podcast audio.
-
 ![Resolvify Screenshot](appscreenshot.png) <!-- Replace with actual image path -->
 
 ---
-
 ## 🚀 Features
 
 - 🎞️ Drag & Drop files (MKV, MP4, WAV)
