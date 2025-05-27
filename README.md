@@ -28,7 +28,7 @@ Install the following packages based on your Linux distribution:
 
 - Linux (Ubuntu, Debian, Fedora, Arch, etc.)  
 - Python 3.6 or higher  
-- `ffmpeg` installed and accessible from terminal  
+- ffmpeg
 - PyQt5 Python package
 
 ## Usage
